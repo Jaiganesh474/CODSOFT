@@ -12,3 +12,4 @@ It will calculate display the average percentage by dividing the total marks and
 Finally, it displays the total marks,average percentage and the corresponding grade to the user.
 
 TASK - 3 ATM INTERFACE
+
