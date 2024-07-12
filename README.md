@@ -17,5 +17,6 @@ This program is designed to simulate the core functionalities of an ATM machine 
 
 TASK - 4 STUDENT MANAGEMENT SYSTEM
 
+The Student Management System is a robust and user-friendly application designed to manage student records efficiently. It is equipped with features that allow users to add new students, edit existing student information, search for specific students, display all student records, and remove students from the system. The application ensures data integrity with input validation and offers data persistence by saving student records to a storage medium.
 
 
